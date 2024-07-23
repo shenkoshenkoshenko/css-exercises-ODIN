@@ -1,3 +1,5 @@
 .odd-number {background-color: pink; font-family: Verdana, sans-serif;}
-.three {font-size: 32px;}
+.three {font-size: 24px;}
 
+#two {color: blue; font-size: 36px;}
+#three {background-color: green; font-weight: bold;}
